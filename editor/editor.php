@@ -160,8 +160,6 @@ if (isset($_GET['debug'])) {
                 <li><a class="link" href="/license" target="site">License</a></li>
                 <li><a class="link" href="/download" target="site">Download</a></li>
                 <li><a class="link" href="/doc" target="site">Mergely development guide</a></li>
-                <li class="separator"></li>
-                <li><a class="link" href="/united-states-declaration-of-independence?wl=1" target="_blank">United States Declaration of Independence Draft</a></li>
             </ul>
         </li>
 <?php
