@@ -18,7 +18,7 @@ if (isset($_GET['debug'])) {
 	<meta name="author" content="Jamie Peabody" />
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<link rel="canonical" href="http://www.mergely.com" />
-    <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css' />
+    <link href='//fonts.googleapis.com/css?family=Noto+Sans:400,700' rel='stylesheet' type='text/css' />
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
 
@@ -186,7 +186,7 @@ if (isset($_GET['debug'])) {
                 </li>
                 <li id="social-reddit">
                     <div style="padding: 10px 10px 5px 10px" title="Reddit">
-                        <a target="_blank" href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false" style="color:black;text-decoration:none;"><img src="http://www.reddit.com/static/spreddit1.gif" alt="submit to reddit" border="0" />
+                        <a target="_blank" href="http://www.reddit.com/submit" onclick="window.location = 'http://www.reddit.com/submit?url=' + encodeURIComponent(window.location); return false" style="color:black;text-decoration:none;"><img src="//www.reddit.com/static/spreddit1.gif" alt="submit to reddit" border="0" />
                             <span>Reddit</span>
                         </a>
                     </div>
