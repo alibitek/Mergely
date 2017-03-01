@@ -22,7 +22,7 @@ if (isset($_GET['debug'])) {
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
 
-	<link type="text/css" rel="stylesheet" href="/style/mergely-theme/jquery-ui-1.10.1.custom.css" />
+	<link type="text/css" rel="stylesheet" href="/Mergely/style/mergely-theme/jquery-ui-1.10.1.custom.css" />
     <link type='text/css' rel='stylesheet' href='/Mergely/editor/lib/wicked-ui.css' />
 	<script type="text/javascript" src="/Mergely/editor/lib/wicked-ui.js"></script>
 
